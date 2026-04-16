@@ -1,0 +1,27 @@
+a=1
+b=0
+c=1
+d=1
+print(not a)
+print(not b)
+print(not c)
+print(not d)
+
+print("\n")
+print(a and d)
+print(c and b)
+print(b and a)
+print(b and b)
+
+print("\n")
+print(a or c)
+print(c or b)
+print(b or d)
+print(b or b)
+
+print("\n")
+print(a ^ c)
+print(c ^ b)
+print(b ^ d)
+print(b ^ b)
+
