@@ -1,0 +1,6 @@
+Celsius = int(input("masukan cuaca (dalam satuan Celsius)"))
+
+if Celsius > 30:
+    print("panas")
+else:
+    print("dingin")
